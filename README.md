@@ -21,7 +21,7 @@
 - 🏫 Overview of the education system
 - 🪖 Information about Sri Lanka’s armed forces
 - 📸 Image galleries and multimedia integration
-- 📱 Fully responsive design
+- 📱 responsive design - 
 - 🧭 Easy-to-navigate category-based structure
 
 ---
@@ -76,9 +76,10 @@
 ---
 
 ## 🖼️ Preview
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/2de70900-17ae-4702-b766-813298dc2ff5" />
 
-![Screenshot of SL Guide Website](./screenshot.png)  
-*Homepage showcasing main categories and responsive design*
+
+*Categoriespage showcasing main categories and responsive design*
 
 ---
 
@@ -89,3 +90,4 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/srilanka-guide.git
 cd srilanka-guide
+
