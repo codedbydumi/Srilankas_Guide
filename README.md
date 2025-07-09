@@ -92,4 +92,3 @@ To run this project locally:
 git clone https://github.com/your-username/srilanka-guide.git
 cd srilanka-guide
 
-> Made with ❤️ by **codedbydumi** 2022
