@@ -77,7 +77,7 @@
 
 ## 🖼️ Preview
 
-<img width="981" alt="image" src="https://github.com/user-attachments/assets/0abf91a4-4db9-438e-9a37-4824ac6c27f1" />
+<img width="981" alt="image" src="https://github.com/user-attachments/assets/0abf91a4-4db9-438e-9a37-4824ac6c27f1" width = "50%" height ="50%"/>
 
 *Homepage page showcasing main categories and responsive design*
 
